@@ -10,6 +10,16 @@ Requirements:
 We *highly* recommend that users use the Visual Studio 2017 (x64),
 as it has all the required dependencies installed and the environment prepared.
 
+Build:
+======
+After setting the new project:
+Build => Solution Build (Ctrl + Shift + B)
+
+Run:
+======
+After you build SDDGSim, you can use the provided programs in the third convolutional layer of AlexNet to test SDDGSim.
+Debug => Start without debugging (Ctrl + F5) *or* Debug => Start debugging (F5)
+
 Jooho Wang and Prof. Chester Sungchung Park.\
 If you have any questions, please send an email to joohowang@konkuk.ac.kr\
 Original release: Konkuk University, 2022\
