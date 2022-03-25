@@ -10,7 +10,7 @@ This is a pre-RTL accelerator simulator that models a specific CNN dataflow unde
 
 Requirements:
 =============
-We *highly* recommend that users use the Visual Studio 2017 (x64),
+We *highly* recommend that users use the `Visual Studio 2017 (x64)`,
 as it has all the required dependencies installed and the environment prepared.
 
 Build:
