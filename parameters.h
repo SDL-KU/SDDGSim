@@ -41,8 +41,8 @@ Revision History
 
 // CNN Parameter
 #define N 1
-#define M 64 //output channel
-#define C 1 //filter channel
+#define M 6 //output channel
+#define C 5 //filter channel
 #define H 15 //input column
 #define W 15 //input row
 #define R 3  //weight column
