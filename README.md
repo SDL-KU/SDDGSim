@@ -24,7 +24,8 @@ Build => Solution Build (Ctrl + Shift + B)
 
 Run:
 ======
-After you build SDDGSim, you can use the provided programs in the tiled third convolutional layer (M64-C1.txt) of AlexNet to test SDDGSim.
+After you build SDDGSim, you can use the provided programs in the tiled third convolutional layer (M6-C5.txt) of AlexNet to test SDDGSim.\
+
 Debug => Start without debugging (Ctrl + F5) *or* Debug => Start debugging (F5)
 
 SDDGSim will generate a text file during its execution. One file you might be interested is `DSE_OUTPUT_L[Li,Lw,Lo]_B[Bi,Bw,Bo].txt` which profiles the performance, power and area of the hardware accelerator.
