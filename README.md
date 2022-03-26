@@ -15,7 +15,7 @@ as it has all the required dependencies installed and the environment prepared.
 
 Create an empty project:
 =============
-You can refer to [this](https://drive.google.com/file/d/1YOwjZA74C_UD5CA0cvvzqUBCzprOdcsw/view?usp=sharing) and create an empty project easily.
+You can refer to [this](https://drive.google.com/file/d/1OGHF2QnDIBdUCfwk5GYZi1jHgGx7lWfr/view?usp=sharing) and create an empty project easily.
 
 Build:
 ======
