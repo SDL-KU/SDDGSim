@@ -24,7 +24,7 @@ Build => Solution Build (Ctrl + Shift + B)
 
 Run:
 ======
-After you build SDDGSim, you can use the provided programs in the tiled third convolutional layer (M2-C32.txt) of AlexNet to test SDDGSim.\
+After you build SDDGSim, you can use the provided programs in the tiled third convolutional layer (M2_C16.txt) of AlexNet to test SDDGSim.\
 
 Debug => Start without debugging (Ctrl + F5) *or* Debug => Start debugging (F5)
 
