@@ -15,7 +15,7 @@ as it has all the required dependencies installed and the environment prepared.
 
 Create an empty project:
 =============
-You can refer to [this](https://drive.google.com/file/d/1OGHF2QnDIBdUCfwk5GYZi1jHgGx7lWfr/view?usp=sharing) and create an empty project easily.
+You can refer to [this](https://drive.google.com/file/d/1AyeC046kIcg_qszU-09Tj_bu3Z1shSec/view?usp=sharing) and create an empty project easily.
 
 Build:
 ======
@@ -24,7 +24,7 @@ Build => Solution Build (Ctrl + Shift + B)
 
 Run:
 ======
-After you build SDDGSim, you can use the provided programs in the tiled third convolutional layer (M6-C5.txt) of AlexNet to test SDDGSim.\
+After you build SDDGSim, you can use the provided programs in the tiled third convolutional layer (M2-C32.txt) of AlexNet to test SDDGSim.\
 
 Debug => Start without debugging (Ctrl + F5) *or* Debug => Start debugging (F5)
 
