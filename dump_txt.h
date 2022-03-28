@@ -89,7 +89,7 @@ void load_text(nodeInfo *node, int *last_node_id)
 	//node_info_file = fopen("nodeinfo_new_3x13_M4_C4.txt", "r");
 	//node_info_file = fopen("nodeinfo_newnew_3x3_M2C2.txt", "r");
 	//node_info_file = fopen("nodeinfo_final_3x3_M2C2.txt", "r");
-	node_info_file = fopen("M16_C4.txt", "r");
+	node_info_file = fopen("M2_C32.txt", "r");
 	//node_info_file = fopen("AlexNet_Layer_Ex/AlexNet_Layer5.txt", "r");
 
 
